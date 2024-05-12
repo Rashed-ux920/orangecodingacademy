@@ -1,0 +1,6 @@
+#h3{
+    display: flex;
+    justify-content: center;
+    /* background: color-mix(#1f1f7a 0%,#80005a 50%,#d4ff00 50%,#05c605 100%); */
+    background: color-mix(in srgb,#1f1f7a 0%,#80005a 50%,#d4ff00 50%,#05c605 100%);
+}
